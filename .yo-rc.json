@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Maciej Stefaniak",
+      "authorEmail": "maciej.stefaniak@insisto.pl",
+      "authorUrl": ""
+    }
+  }
+}

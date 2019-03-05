@@ -1,0 +1,13 @@
+$default-font-size:   18px;
+
+$default-text-color:  <%= primaryTextColor %>;
+$link-text-color:     <%= primaryLinkColor %>;
+$hover-text-color:    <%= alternateTextColor %>;
+
+$transition-time:     300ms;
+
+$breakpoint-xl:       1200px;
+$breakpoint-l:        1024px;
+$breakpoint-md:       900px;
+$breakpoint-s:        768px;
+$breakpoint-xs:       600px;
